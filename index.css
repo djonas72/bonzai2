@@ -1,10 +1,51 @@
+
+html, body { 
+  margin: 0; 
+  vertical-align:top;
+  margin-bottom: 0;
+  margin-top:0;
+  margin-left:0;
+  padding: 0;
+  margin-right: 0;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
-    overflow: hidden;
+    overflow:hidden;
     padding: 0;
     left: 0px;
+    margin: 0;
+    vertical-align: top;
+      margin-top: 0;
+      margin-left: 0;
+   
+        margin-bottom: 0;
+        margin-top:0;
+        margin-left:0;
+    
+    
   }
+
+  header ul {
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
+    padding:0;
+}
+
+header  {
+  margin-bottom: 0;
+  margin-top:0;
+  margin-left:0;
+}
+
+footer ul {
+  margin-bottom: 0;
+  margin-top:0;
+  margin-left:0;
+  padding: 0;
+}
   
   /* Style the links inside the navigation bar */
   .topnav a {
@@ -13,12 +54,15 @@
     color: #1a7430;
     background-color: #0f5038;
     text-align: center;
-    padding: 20px 130px;
+    padding: 20px 124px;
     text-decoration: none;
     font-size: 25px;
     font: 35px impact  ;
     text-shadow: 5px 5px #000000;
-
+    overflow:hidden;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
   }
   
   /* Change the color of links on hover */
@@ -27,41 +71,59 @@
     color: rgb(65, 251, 3);
     font: 35px impact, bold  ;
     text-shadow: 2px 2px #000000;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #04AA6D;
     color: rgb(4, 255, 21);
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
   }
 
   .footernav {
     background-color: rgb(172, 225, 173);
     overflow: hidden;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
   }
   
   /* Style the links inside the navigation bar */
   .footernav a {
     float: left;
-    color: #16881a;
+    color: #1f7522;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
     font: 18px bradley hand ;
     text-shadow: 1px 1px #000000;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
   }
   
   /* Change the color of links on hover */
   .footernav a:hover {
     background-color: rgb(30, 254, 0);
     color: black;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
   }
   
   /* Add a color to the active/current link */
   .footernav a.active {
     background-color: #04AA6D;
     color: white;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
   }
 
   .j7 {
@@ -70,6 +132,9 @@
     background-size: 1200px;
     width: 1200px;
     height: 642px;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
     
    }
 
@@ -79,6 +144,9 @@
     background-size: 1200px;
     width: 1200px;
     height: 642px;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
     
    }
 
@@ -91,6 +159,9 @@
     text-indent: 50px;
   font: 30px hand;
   text-shadow: 2px 2px #000000;
+  margin-bottom: 0;
+  margin-top:0;
+  margin-left:0;
     
    }
 
@@ -102,22 +173,54 @@
   .j1 {color: #109061;
   text-indent: 50px;
 font: 50px Arial, sans-serif;
-text-shadow: 3px 3px #000000;}
+text-shadow: 3px 3px #000000;
+margin-bottom: 0;
+margin-top:0;
+margin-left:0;
+}
 
   .j2 {color: #4bb08b;
     text-indent: 50px;
     font: 30px Arial, sans-serif;
-    text-shadow: 2px 2px #000000;}
+    text-shadow: 2px 2px #000000;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
+  }
 
   .j3 {color: #0ef748;
-    text-indent: 130px;
-    font: 26px Arial, sans-serif;
-    text-shadow: 2px 2px #000000;}
+    text-indent: 180px;
+    font: 22px Arial, sans-serif;
+    text-shadow: 2px 2px #000000;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
+  }
 
-  .j4 { margin-left: 450px;}
+  .j4 { margin-left: 450px;
+    
+  }
 
   .j8 {color: #42db56;
     text-indent: 50px;
   font: 30px hand;
-  text-shadow: 2px 2px #000000;}
+  text-shadow: 2px 2px #000000;
+  margin-bottom: 0;
+  margin-top:0;
+  margin-left:0;
+}
 
+  .j { margin-right: 450px;}
+
+  h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
+  }
+
+  body {padding:0; margin:0; margin-top:0; overflow:hidden;
+    margin-bottom: 0;
+    margin-top:0;
+    margin-left:0;
+  }
