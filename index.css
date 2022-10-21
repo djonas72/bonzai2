@@ -86,7 +86,7 @@ footer ul {
   }
 
   .footernav {
-    background-color: rgb(172, 225, 173);
+    background-color: rgb(2, 83, 4);
     overflow: hidden;
     margin-bottom: 0;
     margin-top:0;
@@ -96,12 +96,12 @@ footer ul {
   /* Style the links inside the navigation bar */
   .footernav a {
     float: left;
-    color: #1f7522;
+    color: #79ff7d;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 10px;
     text-decoration: none;
     font-size: 17px;
-    font: 18px bradley hand ;
+    font: 20px bradley hand ;
     text-shadow: 1px 1px #000000;
     margin-bottom: 0;
     margin-top:0;
@@ -157,7 +157,7 @@ footer ul {
     width: 1200px;
     height: 642px;
     text-indent: 50px;
-  font: 30px hand;
+  font: 33px hand;
   text-shadow: 2px 2px #000000;
   margin-bottom: 0;
   margin-top:0;
@@ -188,7 +188,7 @@ margin-left:0;
     margin-left:0;
   }
 
-  .j3 {color: #0ef748;
+  .j3 {color: #29c44f;
     text-indent: 180px;
     font: 22px Arial, sans-serif;
     text-shadow: 2px 2px #000000;
